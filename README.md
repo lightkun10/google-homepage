@@ -1,1 +1,1 @@
-Created using Ruby.
+The Odin Project HTML/CSS Assignment. Recreating basic Google page.
